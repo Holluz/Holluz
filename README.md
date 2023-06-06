@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ebenezer Akinlabi</h1>
+<h1 align="center">Hi 👋, I'm Ebenezer</h1>
 <h3 align="center">A passionate Data Analyst, Blockchain Analyst and Supply Chain Analyst</h3>
 
 - 🔭 I’m currently working on **Capstone Project**
 
 - 🌱 I’m currently learning **Blockchain Analytics**
+
+- 📫 How to reach me **ebenezerakin2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
